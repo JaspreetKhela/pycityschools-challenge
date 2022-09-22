@@ -61,22 +61,35 @@ _____
 
 _____
 
-### Old Scores by Grade
-
+### Old Math Scores by Grade
+![old_math_scores_by_grade](https://user-images.githubusercontent.com/80941606/191846445-43976bd8-fb00-406c-9229-12ab37875ff1.png)
 
 ### New Scores by Grade
+![new_math_scores_by_grade](https://user-images.githubusercontent.com/80941606/191846498-6a103410-5ca2-4a5f-8ee2-4b78a21faef0.png)
+
+### Old Reading Scores by Grade
+![old_reading_scores_by_grade](https://user-images.githubusercontent.com/80941606/191846708-48d0b9c4-03e8-4dcc-b5f7-1821dcae34aa.png)
+
+### New Reading Scores by Grade
+![new_reading_scores_by_grade](https://user-images.githubusercontent.com/80941606/191846735-fc3adcd1-02f5-4ba1-bb09-c7e02644f07f.png)
 
 ### Old Scores by School Spending
+![old_spending_summary](https://user-images.githubusercontent.com/80941606/191846801-e5129b77-3062-4fd4-b9f2-7563e69265e8.png)
 
 ### New Scores by School Spending
+![new_spending_summary](https://user-images.githubusercontent.com/80941606/191846881-7701e4e4-38ab-4ad7-b4e1-724952c9510a.png)
 
 ### Old Scores by School Size
+![old_scores_by_school_size](https://user-images.githubusercontent.com/80941606/191846910-334c299b-24dd-4b07-87aa-eec6c64c51ca.png)
 
 ### New Scores by School Size
+![new_scores_by_school_size](https://user-images.githubusercontent.com/80941606/191846936-12e9a926-465b-4399-be2a-90583c1dd1b9.png)
 
 ### Old Scores by School Type
+![old_scores_by_school_type](https://user-images.githubusercontent.com/80941606/191846980-302724ec-2bfb-4050-bb47-6923d10e7dc3.png)
 
 ### New Scores by School Type
+![new_scores_by_school_type](https://user-images.githubusercontent.com/80941606/191847005-402615b1-c994-4f27-9b11-ce09126be367.png)
 
 **Table 4**: These are the math and reading scores by grade, school spending, school size, and school type.
 
