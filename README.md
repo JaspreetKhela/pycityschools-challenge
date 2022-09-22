@@ -23,7 +23,7 @@ _____
 ### New District Summary
 ![new_district_summary](https://user-images.githubusercontent.com/80941606/191794534-443f258f-f771-4121-ac97-38579f828051.png)
 
-Image 1: These are the district summaries determined from the old and new analysis scripts.
+**Table 1**: These are the district summaries determined from the old and new analysis scripts.
 
 _____
 * How is the district summary affected?
@@ -31,10 +31,13 @@ _____
 
 _____
 
+### Old School Summary
+![old_school_summary](https://user-images.githubusercontent.com/80941606/191837236-a37426e2-85dc-49dd-b195-12f99eb36227.png)
 
+### New School Summary
+![new_school_summary](https://user-images.githubusercontent.com/80941606/191837286-f059f59a-eb4b-4bf7-a21f-f5bd1a91d222.png)
 
-
-Table 1: New school summary DataFrame
+**Table 2**: These are the school summaries determined from the old and new analysis scripts.
 
 _____
 
@@ -43,10 +46,13 @@ _____
 
 _____
 
+### Old Top 5 Schools
+![old_top_schools](https://user-images.githubusercontent.com/80941606/191837449-b6bab5d4-b25c-41c7-938f-e6e5131d88b8.png)
 
+### New Top 5 Schools
+![new_top_schools](https://user-images.githubusercontent.com/80941606/191837482-8f33a9e2-6136-4f33-ac90-f44066a1b889.png)
 
-
-Table 1: New school summary DataFrame
+**Table 3**: These are the top school summaries determined from the old and new analysis scripts.
 
 _____
 
@@ -55,10 +61,24 @@ _____
 
 _____
 
+### Old Scores by Grade
 
 
+### New Scores by Grade
 
-Table 1: New school summary DataFrame
+### Old Scores by School Spending
+
+### New Scores by School Spending
+
+### Old Scores by School Size
+
+### New Scores by School Size
+
+### Old Scores by School Type
+
+### New Scores by School Type
+
+**Table 4**: These are the math and reading scores by grade, school spending, school size, and school type.
 
 _____
 * How does replacing the ninth-grade scores affect the following:
