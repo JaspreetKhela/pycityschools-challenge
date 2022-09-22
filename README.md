@@ -13,7 +13,7 @@ The purpose of this analysis was to rectify a previous school district analysis 
 * Determining the scores by school type.
 
 ## Results
-Overall, it can be seen from the results below that the new DataFrames with the modified 9th grade score for Thomas High School have not had a large impact on the results from our new analysis compared to the results from our previous analysis. We can compare the results from our original analysis with those from this new analysis by answering the questions below.
+Overall, it can be seen from the results below that the new DataFrames with the modified ninth grade score for Thomas High School have not had a large impact on the results from our new analysis compared to the results from our previous analysis. We can compare the results from our original analysis with those from this new analysis by answering the questions below.
 
 _____
 
@@ -23,7 +23,7 @@ _____
 ### New District Summary
 ![new_district_summary](https://user-images.githubusercontent.com/80941606/191794534-443f258f-f771-4121-ac97-38579f828051.png)
 
-**Table 1**: These are the district summaries determined from the old and new analysis scripts.
+**Figure 1**: These are the district summaries determined from the old and new analysis scripts.
 
 _____
 * How is the district summary affected?
@@ -37,27 +37,27 @@ _____
 ### New School Summary
 ![new_school_summary](https://user-images.githubusercontent.com/80941606/191837286-f059f59a-eb4b-4bf7-a21f-f5bd1a91d222.png)
 
-**Table 2**: These are the school summaries determined from the old and new analysis scripts.
+**Figure 2**: These are the school summaries determined from the old and new analysis scripts.
 
 _____
 
 * How is the school summary affected?
-  * The school summary was only impacted by changes made to the Thomas High School row since the 9th grade scores from this school were dropped.
+  * The school summary was only impacted by changes made to the Thomas High School row since the ninth-grade scores from this school were dropped. In particular, the math and reading grades marginally decreased in the new analysis.
 
 _____
 
-### Old Top 5 Schools
+### Old Top Five Schools
 ![old_top_schools](https://user-images.githubusercontent.com/80941606/191837449-b6bab5d4-b25c-41c7-938f-e6e5131d88b8.png)
 
-### New Top 5 Schools
+### New Top Five Schools
 ![new_top_schools](https://user-images.githubusercontent.com/80941606/191837482-8f33a9e2-6136-4f33-ac90-f44066a1b889.png)
 
-**Table 3**: These are the top school summaries determined from the old and new analysis scripts.
+**Figure 3**: These are the top schools summary determined from the old and new analysis scripts.
 
 _____
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-  * By removing the 9th grade scores from Thomas High School, the high school's performance has increase by double-digit percentages.
+  * By removing the ninth-grade math and reading scores from Thomas High School, the high school's performance slightly increased in the new analysis. However, it retained its second-place ranking amongst the top five schools.
 
 _____
 
@@ -91,17 +91,22 @@ _____
 ### New Scores by School Type
 ![new_scores_by_school_type](https://user-images.githubusercontent.com/80941606/191847005-402615b1-c994-4f27-9b11-ce09126be367.png)
 
-**Table 4**: These are the math and reading scores by grade, school spending, school size, and school type.
+**Figure 4**: These are the math and reading scores by grade, school spending, school size, and school type.
 
 _____
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
-    * 
-  * Scores by school spending
-    * 
-  * Scores by school size
-    * 
-  * Scores by school type
-    * 
+    * The math and reading scores for the tenth, elventh, and twelfth grades remain the same in the new analysis as they were in the old analysis.
+  * Math and reading scores by school spending
+    * There are no discernable differences in the math and reading scores by school spending between the old and new analysis scripts.
+  * Math and reading scores by school size
+    * There are differences in the math and reading scores by school size between the old and new analysis scripts, but these differences are neglible (e.g. differences in the tenths of a decimal number at most).
+  * Math and reading scores by school type
+    * There are no discernable differences in the math and reading scores by school type between the old and new analysis scripts.
 
 ## Summary
+In summary, the impact of removing the ninth-grade math and reading scores from Thomas High School from the analysis was neglible. However, the following four changes were noticed:
+* The school district's average math and reading score decreased by a neglible amount;
+* Thomas High School's math and reading score slightly decreased;
+* Thomas High School's performance slightly increased - but its ranking stayed the same - amongst the district schools; and
+* There was a neglible change in the math and reading scores by school size.
